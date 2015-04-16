@@ -1,1 +1,1 @@
-# KB: all in [wiki](/rajmenon/kb/wiki "WIKI has all the KB")
+# KB: all in [wiki](//github.com/rajmenon/kb/wiki "WIKI has all the KB")
